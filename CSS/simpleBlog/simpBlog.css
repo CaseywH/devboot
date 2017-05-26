@@ -4,6 +4,7 @@ h2 #2c3e50
 font source sans pro*/
 
 .blog-pst{
+  max-width: 700px;
   width: 75%;
   margin: auto;
   border: 10px solid #bdc3c7;
