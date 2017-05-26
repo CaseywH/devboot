@@ -1,0 +1,29 @@
+/*border #bdc3c7
+date #3498db
+h2 #2c3e50
+font source sans pro*/
+
+.blog-pst{
+  width: 75%;
+  margin: auto;
+  border: 10px solid #bdc3c7;
+  padding: 30px;
+}
+.post{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h4{
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+h2{
+  color: #2c3e50;
+}
+.firstp{
+  padding-left: 5px;
+  border-left: 4px solid #bdc3c7;
+}
+hr{
+  color: #bdc3c7;
+}
