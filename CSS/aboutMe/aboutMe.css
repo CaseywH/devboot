@@ -1,5 +1,12 @@
+body{
+  /*background: url(http://www.publicdomainpictures.net/pictures/70000/velka/wood-grain-texture-ii.jpg);
+  background-repeat: no no-repeat;*/
+  background-color: pink;
+
+}
 h1{
   color: red;
+  border: purple solid 5px;
 }
 li{
   color:green;
