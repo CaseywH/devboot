@@ -66,3 +66,4 @@ button:hover {
   color: white;
   background: steelblue;
 }
+button:focus {outline:0;}
